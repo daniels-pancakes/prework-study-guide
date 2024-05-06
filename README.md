@@ -6,7 +6,7 @@ This Prework Study Guide was created for boot camp students who were going throu
 
 ## Installation
 
-N/A
+The Prework will walk through steps of installing all necessary programs including VS code.
 
 ## Usage
 
